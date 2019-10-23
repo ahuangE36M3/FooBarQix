@@ -1,0 +1,9 @@
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\bin\Debug\FooBarQix.exe.config
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\bin\Debug\FooBarQix.exe
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\bin\Debug\FooBarQix.pdb
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\obj\Debug\FooBarQix.csproj.CoreCompileInputs.cache
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\obj\Debug\FooBarQix.exe
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\obj\Debug\FooBarQix.pdb
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\obj\Debug\FooBarQix.csproj.CopyComplete
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Dev\Kata\FooBarQix\FooBarQix\FooBarQix\obj\Debug\FooBarQix.csprojAssemblyReference.cache
